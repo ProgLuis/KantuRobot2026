@@ -1,0 +1,30 @@
+# Informes internos generados durante desarrollo
+INFORME_*.md
+
+# Evidencias y resultados locales de QA
+tests/
+
+# Archivos temporales / sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Editores
+.vscode/
+.idea/
+
+# Caches
+__pycache__/
+*.pyc
+
+# Dependencias locales
+node_modules/
+
+# Paquetes locales de respaldo
+*.zip
+*.rar
+*.7z
