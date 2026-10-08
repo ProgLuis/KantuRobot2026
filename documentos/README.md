@@ -1,21 +1,17 @@
-# Documentos oficiales pendientes — edición 2026
+# Documentos oficiales disponibles — 2026
 
-Esta carpeta queda preparada. No contiene reglamentos históricos ni archivos ficticios.
+Los 11 documentos están disponibles localmente y enlazados desde index.html. Reglamento General y Cuadro Maestro aparecen en Documentos Oficiales; las nueve bases, en sus respectivas tarjetas. Cada documento permite consultar en una nueva pestaña y descargar el mismo archivo.
 
-Documentos por recibir y validar:
+- `01_Reglamento_General_Kanturobot_Reloaded_2026.pdf`
+- `02_Bases_Seguidor_Linea_Escolar_Kanturobot_2026.pdf`
+- `03_Bases_Walking_Race_OTTO_Kanturobot_2026.pdf`
+- `04_Bases_Warbot_1lb_Kanturobot_2026.pdf`
+- `05_Bases_Warbot_120lb_Kanturobot_2026.pdf`
+- `06_Bases_Robot_Velocista_Kanturobot_2026.pdf`
+- `07_Bases_Robot_Mini_Sumo_Kanturobot_2026.pdf`
+- `08_Bases_Robot_Soccer_Kanturobot_2026.pdf`
+- `09_Bases_Humanoide_Kanturobot_2026.pdf`
+- `10_Bases_Proyecto_Innovacion_Tecnologica_Escolar_Kanturobot_2026.pdf`
+- `Cuadro_Maestro_9_Categorias_Kanturobot_2026.pdf`
 
-1. Reglamento General Kanturobot Reloaded 2026.
-2. Bases Proyecto de Innovación Tecnológica – Escolar.
-3. Bases Robot Seguidor de Línea – Escolar.
-4. Bases Robot Velocista.
-5. Bases Robot Mini Sumo.
-6. Bases Robot Soccer.
-7. Bases Robot Walking Race – OTTO.
-8. Bases Robot Warbot – 1 lb.
-9. Bases Robot Warbot – 120 lb.
-
-Al recibir un archivo aprobado: comprobar título, edición, reglas y permisos de publicación; guardarlo sin sustituir archivos existentes; añadir un enlace relativo real en su tarjeta. Un enlace de descarga PDF local puede llevar el atributo download. Verificar que el servidor y el navegador lo descargan correctamente.
-
-Pistas: no presentar las imágenes históricas como oficiales. Publicar un botón Ver pista únicamente si existe un recorrido aprobado para difusión. Si la configuración es secreta, no publicar mapa ni prometer su divulgación. Web y reglamento deben coincidir sobre cuándo y dónde se publica el recorrido.
-
-Las pistas históricas y sus originales de impresión permanecen intactos en el proyecto histórico y no se cargan en esta web.
+Las rutas son relativas, compatibles con GitHub Pages. Esta actualización todavía no se ha publicado. No renombrar, mover ni modificar los PDF. Velocista utiliza el nombre definitivo `06_Bases_Robot_Velocista_Kanturobot_2026.pdf`, normalizado previamente por el usuario.
