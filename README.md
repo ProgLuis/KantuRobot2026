@@ -22,11 +22,11 @@ Sitio estático en HTML5, CSS3 y JavaScript vanilla. No requiere instalación, c
 
 ## Mantenimiento de contenido
 
-Los premios se muestran en las tarjetas y en la lista de premios: mantener ambos bloques sincronizados. Suma aprobada en la solicitud: S/ 2,050. No se ha atribuido el importe a un puesto específico.
+Los premios se muestran en las tarjetas y en la lista de premios: mantener ambos bloques sincronizados. Suma aprobada en la solicitud: S/ 3,200. No se ha atribuido el importe a un puesto específico.
 
 Las fichas resumen la especificación oficial 2026 de las nueve categorías. La fecha es el 10 de noviembre de 2026 y la sede es la Rotonda de la Facultad de Tecnología – UNE, Lurigancho-Chosica. No cambiar datos técnicos sin validación del organizador.
 
-Las inscripciones están abiertas mediante los archivos QR originales incluidos en images/. No sustituirlos, aplicarles filtros ni recortar su margen blanco. No se publica un costo ni se inventa un enlace directo al formulario.
+Las inscripciones están abiertas mediante los archivos QR originales incluidos en images/. No sustituirlos, aplicarles filtros ni recortar su margen blanco. La sección de inscripción incluye los costos por categoría: S/ 30 para las dos categorías escolares, S/ 50 para las seis siguientes y S/ 100 para Warbot 120 lb. No se inventa un enlace directo al formulario.
 
 Las bases oficiales están disponibles desde las nueve tarjetas con acciones para ver y descargar PDF. El Reglamento General y el Cuadro Maestro se encuentran en Documentos Oficiales. Los PDF utilizan rutas relativas y se sirven directamente mediante GitHub Pages cuando se publica el sitio. Esta actualización queda preparada localmente, sin publicar. El PDF de Velocista utiliza el nombre definitivo `06_Bases_Robot_Velocista_Kanturobot_2026.pdf`. Inventario en documentos/README.md.
 
@@ -43,3 +43,5 @@ Abrir tests/actualizacion-2026.html por HTTP. Comprueba ambos temas a 320, 375, 
 La prueba no sustituye una auditoría formal de accesibilidad ni pruebas en dispositivos físicos. La disponibilidad del servicio Google Maps se comprueba aparte de la geometría del iframe.
 
 Sin fuentes remotas, bibliotecas, audio automático ni analítica. El único recurso remoto incorporado es Google Maps, con la ubicación de la universidad.
+
+Los datos web se sincronizaron con el Cuadro Maestro vigente indicado por el organizador. Los PDF y sus rutas se conservan; sus versiones actualizadas serán reemplazadas posteriormente.
